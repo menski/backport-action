@@ -1,0 +1,13 @@
+{
+  "name": "backport-action",
+  "version": "1.0.0",
+  "description": "GitHub Action to backport PRs",
+  "main": "index.js",
+  "repository": "git@github.com:menski/backport-action.git",
+  "author": "Sebastian Menski <sebastian.menski@camunda.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.2",
+    "@actions/github": "^2.1.0"
+  }
+}
